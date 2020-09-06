@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\JESULOBA\source\repos\SDL game - pong\Game.h(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\JESULOBA\source\repos\SDL game - pong\main.cpp(1,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
